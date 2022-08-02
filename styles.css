@@ -1,0 +1,75 @@
+#d56::before{
+    content:"My work ";
+    font-family:Lucida Handwriting;
+    font-size:60px;
+ }
+ 
+ #d579:hover{
+     color:black;
+           
+    
+ }
+ #d42:hover,#d43:hover{
+    box-shadow:5px 15px 15px black;
+ }
+ 
+ #main-div{
+    display:flex;
+ }
+ 
+ #l1:hover{
+     font-size:22px;
+     font-weight:bold;
+ }
+ 
+ #l2:hover{
+     font-size:22px;
+     font-weight:bold;
+ }
+ 
+ #l3:hover{
+     font-size:22px;
+     font-weight:bold;
+ }
+ 
+ #l4:hover{
+     font-size:22px;
+     font-weight:bold;
+ }
+
+ #l5:hover{
+     font-size:22px;
+     font-weight:bold;
+ }
+
+ #l6:hover{
+     font-size:22px;
+     font-weight:bold;
+ }
+
+ #l7:hover{
+     font-size:22px;
+     font-weight:bold;
+ }
+
+ #t1:hover{
+  border:2px solid black;
+ }		
+ 
+ #t2:hover{
+  border:2px solid black;
+ }
+
+ #t3:hover{
+  border:2px solid black;
+ }
+
+ #t4:hover{
+  border:2px solid black;
+ }
+
+ #im1:hover,#im2:hover,#im3:hover,#im4:hover,#im5:hover,#im6:hover{
+    height:120px;
+    width:120px;
+ }		
+  
